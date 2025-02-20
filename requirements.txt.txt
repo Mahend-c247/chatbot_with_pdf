@@ -1,0 +1,7 @@
+streamlit
+langchain
+chatgroq
+PyMuPDF
+Pillow
+python-dotenv
+json
